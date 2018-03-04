@@ -1,0 +1,53 @@
+.container{
+    width: 60%;
+    border: 5px dotted black;
+    height: 600px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#header{
+    text-align: center;
+}
+h1{
+    padding: 10px;
+    color: red;
+}
+h2{
+    color: green;
+    padding: 10px;
+}
+#partA{
+   
+    border: 5px dotted black;
+    height: 400px;
+    text-align: center;
+    background-image: url("../images/soccer.png");
+
+}
+#partB{
+    border: 5px dotted black;
+    height: 400px;
+    background-color: chocolate;
+    text-align: center;
+}
+.underscore{
+   font-size: 46px;
+   font-family: bold;
+
+}
+h3{
+    text-decoration-line: underline;
+}
+h5{
+   text-align: center;
+    padding-top: 20px;
+    position: relative;
+    left: 255px;
+
+}
+/* h4{
+    width: 95%;
+    height: 40px;
+    border: 1px solid black;
+} */
